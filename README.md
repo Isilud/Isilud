@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Isilud
-- 👀 I'm currently working on a Visual Novel with Management elements.
-- 🌱 I’m currently learning Python and 3D modeling.
 - 📫 You can reach me on Discord (Isilud#3937).
 
 <!---
